@@ -1,2 +1,2 @@
-# FormsByAir.Metadata
+# Metadata
 FormsByAir Metadata Project
